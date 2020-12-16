@@ -1,3 +1,5 @@
+# This documentation is outdated and is no longer maintained. For further information please refer to zammad.org
+
 # zammad documentation
 
 If you want to contribute to the Zammad documentation, just create pull requests.
